@@ -5,7 +5,7 @@ class Config:
     Main configurations class
     '''
     NEWS_API_KEY = os.environ.get('NEWS_API_KEY')
-    NEWS_API_BASE_URL = 'http://newsapi.org/v2/{}?apiKey={}'
+    NEWS_API_BASE_URL = 'http://newsapi.org/v2/{}?apiKey=fe108ac1985c493c838e8844be6550b2'
     SECRET_KEY = os.environ.get('SECRET_KEY')
     
 class ProdConfig(Config):
