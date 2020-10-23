@@ -24,7 +24,9 @@ Now navigate to your browser at: localhost://127.0.0.15000/
   
 
 ## Screenshot
+
 ![news2](https://user-images.githubusercontent.com/69419673/96966445-7b7a2b80-1516-11eb-96cd-410480962ce0.png)
+
 
 ![news1](https://user-images.githubusercontent.com/69419673/96966503-95b40980-1516-11eb-8611-fcb91fc14697.png)
 
@@ -38,4 +40,4 @@ Support and contact details
 Incase of any issues please make a pull request and or raise an issue and I will take care of it.
 
 License
-MIT LICENSE Copyright (c) 2020 PPAULYNE WAMBUI
+MIT LICENSE Copyright (c) 2020 PAULYNE WAMBUI
